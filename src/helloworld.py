@@ -3,3 +3,8 @@ def main():
 
 
 main()
+
+
+print("i am god")
+
+print("boop")
